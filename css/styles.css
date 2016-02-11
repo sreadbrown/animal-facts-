@@ -3,3 +3,13 @@
   max-width: 90%;
   margin: 2%;
 }
+
+#slothfacts {
+  display: none;
+}
+#elephantfacts {
+  display: none;
+}
+#kangaroofacts {
+  display: none;
+}
